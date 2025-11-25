@@ -1,7 +1,3 @@
-Sure! Here is a **very simple and clean README** for your GitHub project — perfect for beginners:
-
----
-
 # **Student Management System (Java)**
 
 This is a simple **Java console project** that allows you to manage student details.
